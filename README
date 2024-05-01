@@ -1,8 +1,9 @@
 Skill-Based Assessment: Simple Website Creation
-Welcome to the Skill-Based Assessment (SBA) for creating a simple website with a clean layout and styling. This assessment is a take-home assignment with a total duration of three (3) days. Your instructor will designate at least half a day for you to work on this assessment in class, and you'll have three additional days (including weekends and holidays) to complete it. The assessment will be due at 5:00 PM on the third day after it was assigned to your cohort.
 
 Objectives
-This SBA aims to test your skills in creating a small three-page website with a well-developed HTML structure and good visual design methodologies to produce a satisfying user experience. The objectives include:
+Created a small more then three-page website with a well-developed HTML structure and good visual design methodologies to produce a satisfying user experience. The objectives include:
+
+Used HTML and CSS, Bootstrap, Font Styles.
 
 Demonstrating proficiency in HTML and CSS.
 Creating a clean layout and styling for the website.
@@ -12,7 +13,7 @@ Ensuring consistency and usability across different pages of the website.
 Scenario and Instructions
 In this Skill-Based Assessment, you have the freedom to choose the topic and content for your website. Be creative and come up with a theme that interests you. Your task is to create a simple three-page website following the technical requirements provided below.
 
-Keep in mind the following instructions:
+
 
 Website consist the following technical requirements:
 
@@ -23,11 +24,11 @@ Use a minimum of ten different HTML tags.
 Included at least one table.
 Included at least two forms.
 Implemented at least one dropdown menu.
-Include at least one of each of the following forms of content: text, images, GIFs.
+Included at least one of each of the following forms of content: text, images, GIFs.
+
 CSS Requirements
-Apply inline, internal, and external styling.
-Utilize at least five different CSS selectors.
-Use complementary colors for styling (use resources like Coolors for color palettes).
-Implement Flexbox and/or the Bootstrap Grid for layout.
-Include at least two CSS animations.
-Feel free to go beyond the listed requirements if you have time and creativity. Good luck with your website creation!
+Applied inline, internal, and external styling.
+Utilized at least five different CSS selectors.
+Used complementary colors for styling (use resources like Coolors for color palettes).
+Implemented Flexbox and/or the Bootstrap Grid for layout.
+Included at least two CSS animations.
