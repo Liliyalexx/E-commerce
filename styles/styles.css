@@ -19,6 +19,7 @@ body {
     padding: 60px;
     text-align: left;
     background-position: center;
+    height: 300px;
     
   }
   #glamour{
@@ -32,6 +33,7 @@ body {
   
   /* Style the top navigation bar */
   .navbar {
+    
     display: flex;
     background-color: #333;
   }
@@ -92,3 +94,24 @@ body {
   #pic1, #pic2, #pic3{
     width:20px;
   }
+h2{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: aqua;
+}
+
+/* #carouselExampleInterval{
+    
+} */
+#dimond{
+    margin-top: 200px;;
+}
+.btn btn-secondary dropdown-toggle{
+    width: 100px;
+  height: 100px;
+  background-color: gold;
+  animation-name: example;
+  animation-duration: 4s;
+}
