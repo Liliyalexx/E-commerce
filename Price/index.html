@@ -4,35 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script  defer src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
     <title>Document</title>
-</head>
-<body>
-    
     <!-- Table -->
-<style>
-    /* CSS styles for the table */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
-    th, td {
-      padding: 8px;
-      text-align: left;
-      border-bottom: 1px solid #ddd;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    /* CSS styles for the images */
-    .image-cell img {
-      max-width: 100px;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-    }
-  </style>
 </head>
 <body>
+    <style>
+        /* CSS styles for the table */
+        table {
+          width: 100%;
+          border-collapse: collapse;
+        }
+        th, td {
+          padding: 8px;
+          text-align: left;
+          border-bottom: 1px solid #ddd;
+        }
+        th {
+          background-color: #f2f2f2;
+        }
+        /* CSS styles for the images */
+        .image-cell img {
+          max-width: 100px;
+          height: auto;
+          display: block;
+          margin: 0 auto;
+        }
+      </style>
+
 
 <h2>Image Table</h2>
 
@@ -43,17 +45,53 @@
     <th>$Price</th>
     <th>Image</th>
   </tr>
-  <tr>
-    <td>Ring with Dimond 1</td>
-    <td>white gold of Product 1</td>
+  <tr id = "ring">
+    <td class="name">Ring with Dimond</td>
+    <td>White gold</td>
     <td>$1500</td>
-    <td class="image-cell"><img src="img/ring.jpeg" alt="Product 1"></td>
+    <td class="image-cell"><img src="../img/ring.jpeg" alt="Product 1"></td>
   </tr>
-  <tr>
-    <td>Earrings with Dimonds 2</td>
+  <tr id = "ring">
+    <td class="name">Earrings with Dimonds</td>
     <td>Rose Gold</td>
     <td>$3500</td>
-    <td class="image-cell"><img src="img/bracelet.jpeg" alt="Product 2"></td>
+    <td class="image-cell"><img src="../img/bracelet.jpeg" alt="Product 2"></td>
+  </tr>
+  <tr id = "ring">
+    <td id = "ring" class="name">Ring with Dimond</td>
+    <td>White gold</td>
+    <td>$1500</td>
+    <td class="image-cell"><img src="../img/ring.jpeg" alt="Product 1"></td>
+  </tr>
+  <tr id = "ring">
+    <td class="name">Earrings with Dimonds</td>
+    <td>Rose Gold</td>
+    <td>$3500</td>
+    <td class="image-cell"><img src="../img/bracelet.jpeg" alt="Product 2"></td>
+  </tr>
+  <tr id = "ring">
+    <td id = "ring" class="name">Ring with Dimond</td>
+    <td>White gold</td>
+    <td>$1500</td>
+    <td class="image-cell"><img src="../img/ring.jpeg" alt="Product 1"></td>
+  </tr>
+  <tr id = "ring">
+    <td class="name">Earrings with Dimonds</td>
+    <td>Rose Gold</td>
+    <td>$3500</td>
+    <td class="image-cell"><img src="../img/bracelet.jpeg" alt="Product 2"></td>
+  </tr>
+  <tr id = "ring">
+    <td class="name">Earrings with Dimonds</td>
+    <td>Rose Gold</td>
+    <td>$3500</td>
+    <td class="image-cell"><img src="../img/bracelet.jpeg" alt="Product 2"></td>
+  </tr>
+  <tr id = "ring">
+    <td class="name">Earrings with Dimonds</td>
+    <td>Rose Gold</td>
+    <td>$3500</td>
+    <td class="image-cell"><img src="../img/bracelet.jpeg" alt="Product 2"></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
@@ -61,5 +99,11 @@
 <div class="footer">
   <h2>Footer</h2>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" 
+    crossorigin="anonymous">
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

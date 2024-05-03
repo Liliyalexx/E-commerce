@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../img/jewerly.jpeg');
+    background-color: black;
+  }
+  table{
+   margin-top: 40px;
+   margin-left: 100px;
+   margin-right: 200px;
+  }
+  h2{
+    margin-top: 500px;
+  }
+  .name{
+    font-family: "Dancing Script", cursive;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+  }
+  #ring{
+    height: 80px;
+  }
