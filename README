@@ -1,34 +1,28 @@
-Skill-Based Assessment: Simple Website Creation
-
+Exciting Website Creation Challenge
 Objectives
-Created a small more then three-page website with a well-developed HTML structure and good visual design methodologies to produce a satisfying user experience. The objectives include:
+Embark on an exhilarating journey of website creation! This challenge aims to push your HTML and CSS skills to new heights while crafting a visually stunning and user-friendly website. Here are the key objectives:
 
-Used HTML and CSS, Bootstrap, Font Styles.
-
-Demonstrating proficiency in HTML and CSS.
-Creating a clean layout and styling for the website.
-Incorporating various HTML elements, forms, and content types.
-Utilizing CSS styling techniques, including Flexbox and animations.
-Ensuring consistency and usability across different pages of the website.
+Mastering HTML and CSS fundamentals.
+Designing a captivating layout with a touch of elegance.
+Exploring a variety of HTML elements, forms, and content types.
+Leveraging CSS techniques like Flexbox and animations for added flair.
+Ensuring seamless consistency and usability across all pages.
 Scenario and Instructions
-In this Skill-Based Assessment, you have the freedom to choose the topic and content for your website. Be creative and come up with a theme that interests you. Your task is to create a simple three-page website following the technical requirements provided below.
+Welcome to the Skill-Based Assessment for Website Creation! Unleash your creativity and let your imagination run wild as you choose the theme and content for your website. Your mission is to construct a delightful three-page website, adhering to the technical specifications outlined below.
 
-
-
-Website consist the following technical requirements:
-
+Technical Requirements
 HTML
-Created at least three pages.
-Maintain consistency in the grid system across pages.
-Use a minimum of ten different HTML tags.
-Included at least one table.
-Included at least two forms.
-Implemented at least one dropdown menu.
-Included at least one of each of the following forms of content: text, images, GIFs.
-
-CSS Requirements
-Applied inline, internal, and external styling.
-Utilized at least five different CSS selectors.
-Used complementary colors for styling (use resources like Coolors for color palettes).
-Implemented Flexbox and/or the Bootstrap Grid for layout.
-Included at least two CSS animations.
+Crafted a minimum of three pages, each a masterpiece in its own right.
+Maintained a harmonious grid system across all pages.
+Embraced a diverse array of at least ten distinct HTML tags.
+Featured at least one captivating table to dazzle your visitors.
+Integrated two engaging forms to encourage interaction.
+Implemented a sleek dropdown menu for added navigational convenience.
+Infused your pages with a rich blend of textual content, images, and lively GIFs.
+CSS
+Captured the essence of style with inline, internal, and external styling.
+Exercised your creative freedom with a palette of at least five CSS selectors.
+Dazzled the eyes with harmonious color schemes sourced from Coolors or similar tools.
+Orchestrated the symphony of layout using Flexbox and/or Bootstrap Grid.
+Brought your pages to life with at least two captivating CSS animations.
+Let your imagination soar and transform these requirements into a captivating digital masterpiece!
