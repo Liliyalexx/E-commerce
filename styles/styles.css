@@ -35,6 +35,8 @@ body {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+    font-size: 35px;
+    margin-right: 40px;
   }
   
   /* Style the top navigation bar */
@@ -100,12 +102,13 @@ body {
   #pic1, #pic2, #pic3{
     width:20px;
   }
-h2{
+h2 ,h3{
     font-family: "Dancing Script", cursive;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     color: aqua;
+    margin-left: 30px;;
 }
 
 /* #carouselExampleInterval{
@@ -113,4 +116,18 @@ h2{
 } */
 #dimond{
     margin-top: 200px;;
+}
+.dropdown-menu{
+  margin-left: 30px;
+  font-size: 50px;
+}
+.drop{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: aqua;
+    font-size: 100px;
+   
+
 }

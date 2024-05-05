@@ -10,12 +10,18 @@ body {
   }
   h2{
     margin-top: 500px;
+     font-family: "Dancing Script", cursive;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        margin-left: 600px;
   }
   .name{
     font-family: "Dancing Script", cursive;
         font-optical-sizing: auto;
         font-weight: weight;
         font-style: normal;
+        
   }
   #ring{
     height: 80px;
